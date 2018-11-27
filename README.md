@@ -1,3 +1,3 @@
-# StatsModel
-Creating and Experimenting with data science problems its models and Statistical modelling with a focus on Probabilistic Modelling.
-#HELLO
+# The First Release 
+
+the following code is a demonstration and practice codes for the ZEUS analytical platform.
